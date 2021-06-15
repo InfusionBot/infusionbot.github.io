@@ -28,7 +28,7 @@ We are an open source project on [GitHub](https://github.com/Welcome-Bot/welcome
 ![support](https://botlist.space/bot/848459799783669790/badge?property=support)
 ![library](https://botlist.space/bot/848459799783669790/badge?property=library)
 ![prefix](https://botlist.space/bot/848459799783669790/badge?property=prefix)
-![server](https://botlist.space/bot/848459799783669790/badge?property=servers)
+<!--![servers](https://botlist.space/bot/848459799783669790/badge?property=servers)-->
 
 ## Docs
 
