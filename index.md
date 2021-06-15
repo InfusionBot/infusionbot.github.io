@@ -40,4 +40,8 @@ Want help? Visit [docs]({{ '/docs' | relative_url }})
 
 ![Welcome users image]({{ '/assets/img/welcome.png' | relative_url }})
 
+### Paginated help
+
+![Paginated help image]({{ '/assets/img/help.png' | relative_url }})
+
 {% include footer.md %}
