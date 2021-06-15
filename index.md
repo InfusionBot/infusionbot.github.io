@@ -34,4 +34,10 @@ We are an open source project on [GitHub](https://github.com/Welcome-Bot/welcome
 
 Want help? Visit [docs]({{ '/docs' | relative_url }})
 
+## Images
+
+### Welcome users
+
+![Welcome users image]({{ '/assets/img/welcome.png' | relative_url }})
+
 {% include footer.md %}
