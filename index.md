@@ -22,6 +22,14 @@ We also give you a feature "Moderation" that hepls you to quickly ban, unban and
 
 We are an open source project on [GitHub](https://github.com/Welcome-Bot/welcome-bot). Don’t believe what we’ve said earlier? Check out the source code for yourself! This means the maximum level of transparency, so you’ll never have to worry about privacy concerns.
 
+## Bot status
+
+![tag](https://botlist.space/bot/848459799783669790/badge?property=tag)
+![support](https://botlist.space/bot/848459799783669790/badge?property=support)
+![library](https://botlist.space/bot/848459799783669790/badge?property=library)
+![prefix](https://botlist.space/bot/848459799783669790/badge?property=prefix)
+![server](https://botlist.space/bot/848459799783669790/badge?property=servers)
+
 ## Docs
 
 Want help? Visit [docs]({{ '/docs' | relative_url }})
