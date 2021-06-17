@@ -44,4 +44,8 @@ Want help? Visit [docs]({{ '/docs' | relative_url }})
 
 ![Paginated help image]({{ '/assets/img/help.png' | relative_url }})
 
+### Get changelog on latest version!
+
+![Changelog image]({{ '/assets/img/changelog.png' | relative_url }})
+
 {% include footer.md %}
