@@ -48,4 +48,8 @@ Want help? Visit [docs]({{ '/docs' | relative_url }})
 
 ![Changelog image]({{ '/assets/img/changelog.png' | relative_url }})
 
+### Random waifu image
+
+![Waifu image]({{ '/assets/img/waifu.png' | relative_url }})
+
 {% include footer.md %}
