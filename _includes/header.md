@@ -1,1 +1,3 @@
 # Welcome bot
+
+> A multi-purpose discord bot that helps you monitor (welcome and goodbye logs), moderate (kick or ban users who spam your server), etc...
