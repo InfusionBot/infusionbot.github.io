@@ -22,14 +22,6 @@ The bot is multi-purpose!! It means that there are a lot of other uses of the bo
 
 We are an open source project on [GitHub](https://github.com/Welcome-Bot/welcome-bot). Don’t believe what we’ve said earlier? Check out the source code for yourself! This means the maximum level of transparency, so you’ll never have to worry about privacy concerns.
 
-## Bot status
-
-![tag](https://botlist.space/bot/848459799783669790/badge?property=tag)
-![support](https://botlist.space/bot/848459799783669790/badge?property=support)
-![library](https://botlist.space/bot/848459799783669790/badge?property=library)
-![prefix](https://botlist.space/bot/848459799783669790/badge?property=prefix)
-<!--![servers](https://botlist.space/bot/848459799783669790/badge?property=servers)-->
-
 ## Docs
 
 Want help? Visit [docs]({{ '/docs' | relative_url }})
