@@ -1,3 +1,7 @@
-# Welcome bot
+# Welcome-Bot
 
-> A multi-purpose discord bot that helps you monitor (welcome and goodbye logs), moderate (kick or ban users who spam your server), etc...
+> A cool multi-purpose discord bot that solves all your problems. I have features such as Moderation, ModLog, Welcome & Goodbye logs, Fun, Music
+
+[![Discord Bots](https://top.gg/api/widget/status/848459799783669790.svg)](https://top.gg/bot/848459799783669790)
+[![Discord Bots](https://top.gg/api/widget/servers/848459799783669790.svg)](https://top.gg/bot/848459799783669790)
+[![Discord Bots](https://top.gg/api/widget/upvotes/848459799783669790.svg)](https://top.gg/bot/848459799783669790)
